@@ -6,6 +6,11 @@ public class N_Sample : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		Debug.Log ("kita!");
+		
+	}
+	
+	// Update is called once per frame
+	void Update () {
+		
 	}
 }
