@@ -1,2 +1,2 @@
 # FoveProSamples
-Foveno
+Foveのサンプル
